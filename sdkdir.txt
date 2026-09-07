@@ -1,0 +1,24 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 42AA-DB62
+
+ Directorio de C:\Users\LENOVO\AppData\Local\Android\Sdk
+
+03/06/2026  12:49 p.ÿm.    <DIR>          .
+30/04/2026  05:36 p.ÿm.    <DIR>          ..
+03/06/2026  11:20 a.ÿm.    <DIR>          .downloadIntermediates
+06/09/2026  10:16 a.ÿm.                16 .knownPackages
+01/08/2026  11:42 a.ÿm.    <DIR>          .temp
+03/06/2026  02:33 p.ÿm.    <DIR>          build-tools
+03/06/2026  12:49 p.ÿm.    <DIR>          cmake
+03/06/2026  11:20 a.ÿm.    <DIR>          cmdline-tools
+30/04/2026  05:40 p.ÿm.    <DIR>          emulator
+30/04/2026  05:36 p.ÿm.    <DIR>          extras
+03/06/2026  11:21 a.ÿm.    <DIR>          licenses
+03/06/2026  12:02 p.ÿm.    <DIR>          ndk
+30/04/2026  05:39 p.ÿm.    <DIR>          platform-tools
+01/08/2026  11:42 a.ÿm.    <DIR>          platforms
+19/05/2026  09:26 a.ÿm.    <DIR>          skins
+30/04/2026  05:38 p.ÿm.    <DIR>          sources
+19/05/2026  09:30 a.ÿm.    <DIR>          system-images
+               1 archivos             16 bytes
+              16 dirs  122.303.131.648 bytes libres
